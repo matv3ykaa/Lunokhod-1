@@ -3,7 +3,7 @@
 [![python](https://img.shields.io/badge/Python-3.11.4-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=blue)](https://www.python.org/downloads/)
 
 
-## FAQ
+## ❓ FAQ
 
 #### В чём состоит суть программной реализации?
 
