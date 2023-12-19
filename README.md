@@ -1,5 +1,5 @@
 ![Logo](Screenshots/RKT_logo.png)
----
+
 ---
 # _Зачетная работа по курсу ВвАРКТ на тему «Луноход-1»_
 [![MIT License](https://img.shields.io/badge/MIT-LICENSE-red?style=for-the-badge&labelColor=pink)](https://choosealicense.com/licenses/mit/)
