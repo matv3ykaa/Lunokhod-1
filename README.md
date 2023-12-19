@@ -39,7 +39,7 @@ conda install matplotlib
 pip install -r requirements.txt
 ```
 ## 🔗 Ссылки
-- [Resource Dock](https://docs.google.com/document/d/1ijbliiQDuWv82LZRNR8_xXNfqQRsLWGklXxbIRIdllM/edit) 📄
+- [Resource Dock](https://docs.google.com/document/d/1ijbliiQDuWv82LZRNR8_xXNfqQRsLWGklXxbIRIdllM/edit)
 
 ---
 ![Alt](https://repobeats.axiom.co/api/embed/516eb5672aac6f7c1859e6eda035efbbad62f81e.svg "Repobeats analytics image")
