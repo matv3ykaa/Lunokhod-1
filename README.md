@@ -43,4 +43,3 @@ pip install -r requirements.txt
 
 ---
 ![Alt](https://repobeats.axiom.co/api/embed/516eb5672aac6f7c1859e6eda035efbbad62f81e.svg "Repobeats analytics image")
----
