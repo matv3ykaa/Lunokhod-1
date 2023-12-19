@@ -1,5 +1,3 @@
-<p align="center">
-  <img src="/Screenshots/RKTlogo.png?raw=true" alt="matv3ykaa"/>
 ![Logo](Screenshots/RKTlogo.png)
 ---
 # _Зачетная работа по курсу ВвАРКТ на тему «Луноход-1»_
