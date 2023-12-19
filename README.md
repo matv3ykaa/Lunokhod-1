@@ -24,17 +24,17 @@
 ## 🛠️ Установка библиотек
 > [!IMPORTANT]  
 > Для корректной работы программ небходимо выполнить одну из данных команд в Вашей рабочей среде.
-- С помощью pip:
+#### - С помощью pip:
 ```
 pip install matplotlib
 ```
-- С помощью conda:
+#### - С помощью conda:
 ```
 conda install matplotlib
 ```
-- Автоматически с помощью файла `requirements.txt`:
+#### - Автоматически с помощью файла `requirements.txt`:
 ```
-pip install -r requirements. txt
+pip install -r requirements.txt
 ```
 ## 🔗 Ссылки
 - [Resource Dock](https://docs.google.com/document/d/1ijbliiQDuWv82LZRNR8_xXNfqQRsLWGklXxbIRIdllM/edit)
