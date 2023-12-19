@@ -32,6 +32,9 @@ pip install matplotlib
 ```
 conda install matplotlib
 ```
-
+- Автоматически с помощью файла `requirements.txt`:
+```
+pip install -r requirements. txt
+```
 ## 🔗 Ссылки
 - [Resource Dock](https://docs.google.com/document/d/1ijbliiQDuWv82LZRNR8_xXNfqQRsLWGklXxbIRIdllM/edit)
