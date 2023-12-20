@@ -4,7 +4,7 @@
 **<h1 align="center">Зачетная работа по курсу ВвАРКТ на тему «Луноход-1»</h1>**
 
 <p align="center">
-<img src="https://img.shields.io/badge/MIT-LICENSE-red?style=for-the-badge&labelColor=pink"/>
+<img src="[![MIT License](https://img.shields.io/badge/MIT-LICENSE-red?style=for-the-badge&labelColor=pink)](https://choosealicense.com/licenses/mit/)"/>
 </p>
 
 [![MIT License](https://img.shields.io/badge/MIT-LICENSE-red?style=for-the-badge&labelColor=pink)](https://choosealicense.com/licenses/mit/)
