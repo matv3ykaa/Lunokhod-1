@@ -1,5 +1,6 @@
 ![Logo](Screenshots/RKT_logo.png)
 
+---
 _**<h1 align="center">Зачетная работа по курсу ВвАРКТ на тему «Луноход-1»</h1>**_
 
 <p href="https://www.python.org/downloads/" align="center">
