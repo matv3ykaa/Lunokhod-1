@@ -1,7 +1,7 @@
 ![Logo](Screenshots/RKT_logo.png)
 
 ---
-**<h1 align="center">Зачетная работа по курсу ВвАРКТ на тему «Луноход-1»</h1>**
+_**<h1 align="center">Зачетная работа по курсу ВвАРКТ на тему «Луноход-1»</h1>**_
 
 <p href="https://www.python.org/downloads/" align="center">
   <a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/MIT-LICENSE-red?style=for-the-badge&labelColor=pink"/></a>
