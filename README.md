@@ -2,6 +2,7 @@
 
 ---
 <h1 align="center">Зачетная работа по курсу ВвАРКТ на тему «Луноход-1»</h1>
+
 # Зачетная работа по курсу ВвАРКТ на тему «Луноход-1»
 
 [![MIT License](https://img.shields.io/badge/MIT-LICENSE-red?style=for-the-badge&labelColor=pink)](https://choosealicense.com/licenses/mit/)
