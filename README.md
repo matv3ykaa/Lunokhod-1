@@ -9,6 +9,7 @@
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.11.4-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=blue"/></a>
 </p>
 
+---
 ## ❓ FAQ
 
 #### В чём состоит суть программной реализации?
