@@ -6,7 +6,7 @@
 <p href="https://www.python.org/downloads/" align="center">
   <a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/MIT-LICENSE-red?style=for-the-badge&labelColor=pink"/></a>
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.11.4-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=blue"/></a>
-  <a href="https://img.shields.io/badge/matv3ykaa-matv3ykaa?style=for-the-badge&logo=GitHub&logoColor=black&labelColor=pink&color=black&link=https%3A%2F%2Fgithub.com%2Fmatv3ykaa"><img src="https://img.shields.io/badge/matv3ykaa-matv3ykaa?style=for-the-badge&logo=GitHub&logoColor=black&labelColor=pink&color=black&link=https%3A%2F%2Fgithub.com%2Fmatv3ykaa"/></a>
+  <a href="https://github.com/matv3ykaa"><img src="https://img.shields.io/badge/matv3ykaa-matv3ykaa?style=for-the-badge&logo=GitHub&logoColor=black&labelColor=pink&color=black&link=https%3A%2F%2Fgithub.com%2Fmatv3ykaa"/></a>
 </p>
 
 ## ❓ FAQ
