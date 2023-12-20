@@ -3,6 +3,10 @@
 ---
 **<h1 align="center">Зачетная работа по курсу ВвАРКТ на тему «Луноход-1»</h1>**
 
+<p align="center">
+<img src="https://img.shields.io/badge/MIT-LICENSE-red?style=for-the-badge&labelColor=pink" width="100" height="100" border="10"/>
+</p>
+
 [![MIT License](https://img.shields.io/badge/MIT-LICENSE-red?style=for-the-badge&labelColor=pink)](https://choosealicense.com/licenses/mit/)
 [![python](https://img.shields.io/badge/Python-3.11.4-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=blue)](https://www.python.org/downloads/)
 ![gihub](https://img.shields.io/badge/matv3ykaa-matv3ykaa?style=for-the-badge&logo=GitHub&logoColor=black&labelColor=pink&color=black&link=https%3A%2F%2Fgithub.com%2Fmatv3ykaa)
