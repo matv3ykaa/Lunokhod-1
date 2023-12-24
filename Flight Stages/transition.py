@@ -17,9 +17,11 @@ e = (r2 - r1) / (r2 + r1)
 t = [i for i in range(1, 213)]
 
 fuel_values = list()
+
 M = 2155
 M1 = round(m * (1 - (e**(-((V1) / I)))))
 M2 = round(m * (1 - (e**(-((V2) / I)))))
+
 for i in range(1, abs(M1) + 1, 100):
     fuel_values.append(M - i)
 
@@ -31,8 +33,6 @@ for r in range(200):
 for i in range(1, abs(M2) + 1, 50):
     fuel_values.append(curr_M - i)
 
-
-print(fuel_values, M1, M2)
 plt.plot(t, fuel_values)
 plt.title('Зависимость количества топлива от времени')
 plt.xlabel('Время, мин')
