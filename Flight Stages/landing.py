@@ -6,6 +6,7 @@ P = 68000
 U = 1400
 
 t = [i for i in range(1, 18, 2)]
+t1 = [1, 30, 60, 90, 120, 150, 180, 210, 240]
 
 g = 1.63
 k = 330
@@ -18,9 +19,9 @@ for i in range(len(t)):
     fuel_values.append(M)
 
 
-plt.plot(t, fuel_values)
+plt.plot(t1, fuel_values)
 plt.title('Зависимость количества топлива от времени')
-plt.xlabel('Время, мин')
+plt.xlabel('Время, сек')
 plt.ylabel('Количество топлива, кг')
 plt.grid(True)
 plt.show()
