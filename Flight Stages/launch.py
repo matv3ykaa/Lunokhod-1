@@ -7,19 +7,18 @@ P1 = 996000
 P2 = 325000
 P3 = 62500
 U = 9285
-
-t = [i for i in range(1, 336, 10)]
-t1 = [i for i in range(1, 111, 10)]
-t2 = [i for i in range(1, 113,10)]
-t3 = [i for i in range(1, 111,10)]
-
 g = 9.81
 Cx = 0.018
 rho = 0.125
 Se = 20.1
 k1 = 110
 k2 = 110
-k3 = 110 
+k3 = 110
+
+t = [i for i in range(1, 336, 10)]
+t1 = [i for i in range(1, 111, 10)]
+t2 = [i for i in range(1, 113,10)]
+t3 = [i for i in range(1, 111,10)]
 
 fuel_values = list()
 
